@@ -1,0 +1,26 @@
+ .highlighted
+{
+	 color:red !important;
+
+}
+.highlighted
+{
+	 color:green;
+
+}
+.highlighted
+{
+	 color:orange;
+
+}
+
+p{
+	color:gray;
+}
+
+.container {
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    border-radius: 15px;
+}
